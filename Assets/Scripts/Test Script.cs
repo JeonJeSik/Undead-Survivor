@@ -15,4 +15,14 @@ public class TestScript : MonoBehaviour
     {
         
     }
+
+    private void LateUpdate()
+    {
+        
+    }
+
+    private void OnDestroy()
+    {
+        
+    }
 }
